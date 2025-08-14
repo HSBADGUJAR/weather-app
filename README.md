@@ -4,10 +4,7 @@ A simple, responsive **Weather App** built with **HTML**, **CSS**, and **JavaScr
 
 ---
 
-## 📷 Screenshot
-![Weather App](Weather.png)
 
----
 
 ## 🚀 Features
 - 🌍 Search weather by city name
@@ -26,6 +23,10 @@ A simple, responsive **Weather App** built with **HTML**, **CSS**, and **JavaScr
 - OpenWeather API
   
 ---
+## 📷 Screenshot
+ ![To-Do List App](Weather.png)  
 
+---
 ## 🌐 Live Demo
-[**View App Here**][(https://hsbadgujar.github.io/weather-app/)]
+[**View App Here**](https://hsbadgujar.github.io/weather-app/)  
+
